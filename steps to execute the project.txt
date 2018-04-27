@@ -5,5 +5,8 @@ Steps :
 1.Import the user.sql in database from database folder.
 2.Copy the Project-Kids folder in xampp/htdocs/
 3.Open the brower and type localhost/Project-Kids if on default port.
+4.If you want to use php mail function you should configure the php.ini in php folder of xampp
+also the sendmail.ini in sendmail folder in xampp. You can take help from youtube doing it.
+also you should change the email address "kidsteamatservice@gmail.com" in php files.
 
 thank you...
