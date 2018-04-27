@@ -1,0 +1,9 @@
+I have used xampp for local hosting..So I prefer installing it.
+
+Steps :
+
+1.Import the user.sql in database from database folder.
+2.Copy the Project-Kids folder in xampp/htdocs/
+3.Open the brower and type localhost/Project-Kids if on default port.
+
+thank you...
