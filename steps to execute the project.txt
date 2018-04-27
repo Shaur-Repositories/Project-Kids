@@ -1,4 +1,5 @@
 I have used xampp for local hosting..So I prefer installing it.
+Also all errors has been fixed ...but if u find any feel free to fix it.
 
 Steps :
 
