@@ -1,9 +1,9 @@
-I have used xampp for local hosting..So I recommend using that only.
+xampp server is used for local hosting..So I recommend using that only.
 Also all errors has been fixed ...but if u find any feel free to fix it.
 
-Steps :
+Steps to execute the project :
 
-1.Import the user.sql in database from database folder.
+1.Import the user.sql in database from database folder to the MySql through browser.
 2.Copy the Project-Kids folder in xampp/htdocs/
 3.Open the brower and type localhost/Project-Kids if on default port.
 4.If you want to use php mail function you should configure the php.ini in php folder of xampp
